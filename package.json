@@ -1,0 +1,15 @@
+{
+  "name": "fancy-fonts-converter",
+  "version": "1.0.0",
+  "description": "Viele Fancy Unicode-Schriften für Node.js",
+  "main": "index.js",
+  "bin": {
+    "fancy-fonts": "./cli.js"
+  },
+  "keywords": ["fancy", "unicode", "text", "fonts"],
+  "author": "Max",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
